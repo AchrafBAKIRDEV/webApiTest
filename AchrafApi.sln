@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AchrafApi", "AchrafApi\AchrafApi.csproj", "{0325B7E3-C890-4BD7-951E-60A1E231906D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AchrafApi.Test", "AchrafApi.Test\AchrafApi.Test.csproj", "{C214441E-B62A-47D0-A5BE-88957E49E230}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBaseAccess", "DataBaseAccess\DataBaseAccess.csproj", "{0DC0F715-079D-4371-8F0E-5345306E510E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0325B7E3-C890-4BD7-951E-60A1E231906D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0325B7E3-C890-4BD7-951E-60A1E231906D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0325B7E3-C890-4BD7-951E-60A1E231906D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0325B7E3-C890-4BD7-951E-60A1E231906D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C214441E-B62A-47D0-A5BE-88957E49E230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C214441E-B62A-47D0-A5BE-88957E49E230}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C214441E-B62A-47D0-A5BE-88957E49E230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C214441E-B62A-47D0-A5BE-88957E49E230}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DC0F715-079D-4371-8F0E-5345306E510E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DC0F715-079D-4371-8F0E-5345306E510E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DC0F715-079D-4371-8F0E-5345306E510E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DC0F715-079D-4371-8F0E-5345306E510E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

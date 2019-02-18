@@ -1,0 +1,4 @@
+C:\Users\abakir\Desktop\My project\Web service\AchrafApi\DataBaseAccess\bin\Debug\DataBaseAccess.dll
+C:\Users\abakir\Desktop\My project\Web service\AchrafApi\DataBaseAccess\bin\Debug\DataBaseAccess.pdb
+C:\Users\abakir\Desktop\My project\Web service\AchrafApi\DataBaseAccess\obj\Debug\DataBaseAccess.dll
+C:\Users\abakir\Desktop\My project\Web service\AchrafApi\DataBaseAccess\obj\Debug\DataBaseAccess.pdb

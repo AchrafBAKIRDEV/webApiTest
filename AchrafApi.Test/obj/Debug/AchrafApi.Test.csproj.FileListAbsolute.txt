@@ -1,0 +1,17 @@
+C:\Users\abakir\Desktop\My project\Web service\AchrafApi\AchrafApi.Test\bin\Debug\AchrafApi.Test.dll
+C:\Users\abakir\Desktop\My project\Web service\AchrafApi\AchrafApi.Test\bin\Debug\AchrafApi.Test.pdb
+C:\Users\abakir\Desktop\My project\Web service\AchrafApi\AchrafApi.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\abakir\Desktop\My project\Web service\AchrafApi\AchrafApi.Test\obj\Debug\AchrafApi.Test.dll
+C:\Users\abakir\Desktop\My project\Web service\AchrafApi\AchrafApi.Test\obj\Debug\AchrafApi.Test.pdb
+C:\Users\abakir\Desktop\My project\Web service\AchrafApi\AchrafApi.Test\bin\Debug\Castle.Core.dll
+C:\Users\abakir\Desktop\My project\Web service\AchrafApi\AchrafApi.Test\bin\Debug\DataBaseAccess.dll
+C:\Users\abakir\Desktop\My project\Web service\AchrafApi\AchrafApi.Test\bin\Debug\Moq.dll
+C:\Users\abakir\Desktop\My project\Web service\AchrafApi\AchrafApi.Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\abakir\Desktop\My project\Web service\AchrafApi\AchrafApi.Test\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\abakir\Desktop\My project\Web service\AchrafApi\AchrafApi.Test\bin\Debug\DataBaseAccess.pdb
+C:\Users\abakir\Desktop\My project\Web service\AchrafApi\AchrafApi.Test\bin\Debug\Castle.Core.xml
+C:\Users\abakir\Desktop\My project\Web service\AchrafApi\AchrafApi.Test\bin\Debug\Moq.pdb
+C:\Users\abakir\Desktop\My project\Web service\AchrafApi\AchrafApi.Test\bin\Debug\Moq.xml
+C:\Users\abakir\Desktop\My project\Web service\AchrafApi\AchrafApi.Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\abakir\Desktop\My project\Web service\AchrafApi\AchrafApi.Test\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\abakir\Desktop\My project\Web service\AchrafApi\AchrafApi.Test\obj\Debug\AchrafApi.Test.csprojResolveAssemblyReference.cache
